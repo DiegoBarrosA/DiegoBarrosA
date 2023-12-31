@@ -1,6 +1,5 @@
-### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoBarrosA)](https://github.com/anuraghazra/github-readme-stats)
+### Hello, I am Diego 🐹
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoBarrosA&show_icons=true&theme=holi)
 <!--
 **DiegoBarrosA/DiegoBarrosA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
