@@ -1,4 +1,4 @@
-### Hello, my name is Diego 🐒
+### Hello 🧉
 
 [![stats](https://github-readme-stats.vercel.app/api?username=DiegoBarrosA&theme=dark&icon_color=82AAFF&bg_color=212121&text_color=EEFFFF)](https://github.com/DiegoBarrosA)
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBarrosA&langs_count=8&layout=compact&theme=dark&icon_color=82AAFF&bg_color=212121&text_color=EEFFFF)](https://github.com/DiegoBarrosA?tab=repositories)
