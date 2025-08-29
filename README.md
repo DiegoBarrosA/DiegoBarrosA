@@ -25,4 +25,4 @@ I am a Senior Engineer with expertise in Atlassian products, cloud-native enviro
 
 🌍 [Portfolio](https://diegobarrosaraya.com)
 📧 [Email](mailto:contact@diegobarrosaraya.com)
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+🔗 [LinkedIn](https://linkedin.com/in/diegobarrosa)
