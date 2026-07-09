@@ -27,8 +27,6 @@ I am a Senior Engineer with expertise in Atlassian products, cloud-native enviro
 
 <div align="center" style="min-width: 800px; overflow-x: auto;">
 
-  <img height="199em" src="https://github-readme-stats.vercel.app/api?username=DiegoBarrosA&show_icons=true&theme=dark&icon_color=82AAFF&bg_color=212121&text_color=EEFFFF&title_color=82AAFF&border_color=212121&include_all_commits=true&count_private=true&hide_rank=false&card_width=280&card_height=190"/>
-  <img height="199em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBarrosA&layout=compact&langs_count=8&theme=dark&icon_color=82AAFF&bg_color=212121&text_color=EEFFFF&title_color=82AAFF&border_color=212121&card_width=325&card_height=190"/>
   <img height="195em" src="https://streak-stats.demolab.com?user=DiegoBarrosA&theme=dark&ring=82AAFF&fire=82AAFF&currStreakLabel=EEFFFF&sideLabels=EEFFFF&currStreakNum=EEFFFF&dates=8B949E&sideNums=82AAFF&&card_width=770&background=212121&border=212121&border_radius=4&card_height=190"/>
   <img width="790" src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoBarrosA&theme=github-compact&bg_color=212121&color=EEFFFF&line=82AAFF&point=82AAFF&area=true&hide_border=false&border_color=212121&height=300&radius=8&hide_title=true"/>
 
