@@ -25,14 +25,13 @@ I am a Senior Engineer with expertise in Atlassian products, cloud-native enviro
 
 ## GitHub Stats
 
-<div align="center" style="min-width: 800px; overflow-x: auto;">
+<div align="center">
 
-  <img height="195em" src="https://streak-stats.demolab.com?user=DiegoBarrosA&theme=dark&ring=82AAFF&fire=82AAFF&currStreakLabel=EEFFFF&sideLabels=EEFFFF&currStreakNum=EEFFFF&dates=8B949E&sideNums=82AAFF&&card_width=770&background=212121&border=212121&border_radius=4&card_height=190"/>
-  <img width="790" src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoBarrosA&theme=github-compact&bg_color=212121&color=EEFFFF&line=82AAFF&point=82AAFF&area=true&hide_border=false&border_color=212121&height=300&radius=8&hide_title=true"/>
-
-<br/>
-
-
+  <img src="https://github-readme-stats.diego-barros.workers.dev/api?username=DiegoBarrosA&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.diego-barros.workers.dev/api/top-langs?username=DiegoBarrosA&theme=onedark&hide_border=true&layout=compact" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-stats.diego-barros.workers.dev/api/streak?username=DiegoBarrosA&theme=onedark&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
