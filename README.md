@@ -27,11 +27,11 @@ I am a Senior Engineer with expertise in Atlassian products, cloud-native enviro
 
 <div align="center">
 
-  <img src="https://github-readme-stats.diego-barros.workers.dev/api?username=DiegoBarrosA&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="400" src="https://github-readme-stats.diego-barros.workers.dev/api?username=DiegoBarrosA&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.diego-barros.workers.dev/api/top-langs?username=DiegoBarrosA&theme=onedark&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img width="350" src="https://github-readme-stats.diego-barros.workers.dev/api/top-langs?username=DiegoBarrosA&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages"/>
   <br/>
-  <img src="https://github-readme-stats.diego-barros.workers.dev/api/streak?username=DiegoBarrosA&theme=onedark&hide_border=true" alt="GitHub Streak"/>
+  <img width="400" src="https://github-readme-stats.diego-barros.workers.dev/api/streak?username=DiegoBarrosA&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
