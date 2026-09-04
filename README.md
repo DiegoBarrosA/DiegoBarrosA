@@ -27,11 +27,11 @@ I am a Senior Engineer with expertise in Atlassian products, cloud-native enviro
 
 <div align="center">
 
-  <img width="500" src="https://stats.diegobarrosaraya.com/api?username=DiegoBarrosA&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="500" src="https://stats.diegobarrosaraya.com/api?username=DiegoBarrosA&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&v=3" alt="GitHub Stats"/>
   <br/>
-  <img width="400" src="https://stats.diegobarrosaraya.com/api/top-langs?username=DiegoBarrosA&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+  <img width="400" src="https://stats.diegobarrosaraya.com/api/top-langs?username=DiegoBarrosA&theme=github_dark&hide_border=true&layout=compact&langs_count=8&v=3" alt="Top Languages"/>
   <br/>
-  <img width="500" src="https://stats.diegobarrosaraya.com/api/streak?username=DiegoBarrosA&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
+  <img width="500" src="https://stats.diegobarrosaraya.com/api/streak?username=DiegoBarrosA&theme=github_dark&hide_border=true&v=3" alt="GitHub Streak"/>
 
 </div>
 
